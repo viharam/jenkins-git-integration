@@ -17,3 +17,9 @@
 # directory at the root of the repository and any of its
 # subdirectories.
 /build/logs/ @doctocat
+
+
+# In this example, @doctocat owns any files in the build/logs
+# directory at the root of the repository and any of its
+# subdirectories.
+* @viharam/teamthree
